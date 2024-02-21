@@ -139,13 +139,3 @@ else:
     print('Не удалось получить данные.')
 #endregion
 
-#def clear_table():
-    #conn = sqlite3.connect('coin_prices.db')
-   # cursor = conn.cursor()
-   # cursor.execute('DELETE FROM prices')
-   # conn.commit()
-   # conn.close()
-
-# Пример использования функции
-#clear_table()
-#print('База данных успешно очищена.')
